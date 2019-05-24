@@ -159,7 +159,7 @@
 <distributionManagement>
     <repository>
       <id>internal.repo</id>
-      <name>MyCo_Internal_Repository</name>
+      <name>Karthi_Internal_Repository</name>
       <url>file:///home/karthi/assignment_edu/test/</url>
     </repository>
   </distributionManagement>
